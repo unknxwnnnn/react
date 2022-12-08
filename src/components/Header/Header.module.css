@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  padding: 10px 5% 10px 5%;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  background-color: darkslategray;
+  height: 70px;
+  border-radius: 20px 20px 20px 20px;
+  color: white;
+  border: 3px white solid;
+  font-family: "Dosis", sans-serif;
+}
+.header_text {
+  font-size: 24px;
+}
